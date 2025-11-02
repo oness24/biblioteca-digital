@@ -1,4 +1,4 @@
-ste sistema foi desenvolvido para facilitar a gestão de documentos digitais em bibliotecas universitárias, permitindo organização eficiente de artigos, teses e livros em diversos formatos digitais.
+Este sistema foi desenvolvido para facilitar a gestão de documentos digitais em bibliotecas universitárias, permitindo organização eficiente de artigos, teses e livros em diversos formatos digitais.
 
 Características Principais
 Organização automática por tipo de documento e ano
