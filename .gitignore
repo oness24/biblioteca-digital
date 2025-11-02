@@ -45,3 +45,7 @@ htmlcov/
 # Project specific
 *.log
 .env
+
+# Private documentation (not for GitHub)
+biblioteca_digital/docs/MANUAL_USUARIO.md
+biblioteca_digital/docs/RELATORIO_TESTES.md
