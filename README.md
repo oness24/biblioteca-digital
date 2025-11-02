@@ -8,4 +8,4 @@ Busca rápida por título, autor ou nome de arquivo
 Estatísticas detalhadas da biblioteca
 Sistema de metadados persistente
 Extração automática de ano do nome do arquivo
-✅ratamento automático de nomes duplicados
+ratamento automático de nomes duplicados
