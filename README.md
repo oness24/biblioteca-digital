@@ -9,3 +9,5 @@ Estatísticas detalhadas da biblioteca
 Sistema de metadados persistente
 Extração automática de ano do nome do arquivo
 ratamento automático de nomes duplicados
+
+https://github.com/oness24/biblioteca-digital/blob/main/biblioteca_digital/README.md
