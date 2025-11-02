@@ -49,3 +49,9 @@ htmlcov/
 # Private documentation (not for GitHub)
 biblioteca_digital/docs/MANUAL_USUARIO.md
 biblioteca_digital/docs/RELATORIO_TESTES.md
+biblioteca_digital/PROJECT_EMAIL.md
+biblioteca_digital/CONTACT_INFO.md
+
+# All private docs folder
+biblioteca_digital/private/
+biblioteca_digital/docs/private/
